@@ -3,14 +3,15 @@ main:
   ## Amount of goroutines per vanity, if there are 5 vanities and amplify is 6 it means there will be 6 goroutines per vanity
   amplify: 1
   ## Discord token which has access to changing the vanity of server
-  token: 
+  token:"MTM4NjIyODQ5NjQ1OTYyODU5NA.GnemFT.T7MUh8nvJnQW-0lIjMLPARrI2y4egAjEWy85_4" 
   ## Webhook for sending notifications
-  webhook: 
+  webhook:https://discord.com/api/webhooks/1403567249482321951/UFIxSQQEeufRz0OfUSef0BtoM90bVHB4hO49p60VNEsbwa4p-pfMLuSmGEpKKmIePsk_ 
   ## Guildid of server which has access to the vanity feature
-  guildid: 
+  guildid:1375921169688957059 
   ## It is recommended to leave this option disabled, as it is currently experimental
   usesockets: false
   ## Amount of socket channels, ignore this if you are not using the usesockets option
   socketchannels: 10
   debug: false
+
 
